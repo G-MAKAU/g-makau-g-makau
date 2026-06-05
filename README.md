@@ -63,10 +63,9 @@
 
 ## 📌 Selected Projects
 
-- **TaskFlow** — Task management platform focused on clean UX and team productivity
 - **BookHub API** — Reliable API for book inventory and backend workflows
-- **Weatherly** — Interactive weather dashboard integrated with external APIs
-- **AutoDoc** — OpenAPI-driven documentation automation tooling
+- **POS Systems** — Point-of-sale solutions focused on reliability and business operations
+- **Moodle LMS Integration** — Learning management system integrations for streamlined education workflows
 
 ➡️ Full project details: **[www.gibson-makau.tech](https://www.gibson-makau.tech/)**.
 
