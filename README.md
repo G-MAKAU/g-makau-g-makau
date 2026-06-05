@@ -26,9 +26,35 @@
 
 ## 🛠️ Tech Stack
 
+**Frontend**
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,ts,fastapi,react,nodejs,express,postgres,mongodb,docker,kubernetes,aws,git,github,linux,nginx&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,js,ts,html,css&perline=8" alt="Frontend Stack" />
+  </a>
+</p>
+
+**Backend**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mongodb&perline=8" alt="Backend Stack" />
+  </a>
+</p>
+
+**Cloud & DevOps**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux&perline=8" alt="Cloud and DevOps Stack" />
+  </a>
+</p>
+
+**Tooling**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" alt="Tooling Stack" />
   </a>
 </p>
 
