@@ -112,7 +112,6 @@ If you'd like to support my work or collaborate on a project:
 ---
 
 ## 📊 GitHub Activity
-
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=g-makau&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-makau&layout=compact&theme=tokyonight&hide_border=true" />
