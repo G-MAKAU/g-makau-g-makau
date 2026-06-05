@@ -49,6 +49,36 @@
 
 ## 🤝 Connect
 
-- Portfolio: [www.gibson-makau.tech](https://www.gibson-makau.tech/)
-- GitHub: [@G-MAKAU](https://github.com/G-MAKAU)
-- Email: [contact@gibson-makau.tech](mailto:contact@gibson-makau.tech)
+<p align="left">
+  <a href="https://github.com/G-MAKAU">
+    <img src="https://img.shields.io/badge/GitHub-G--MAKAU-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.gibson-makau.tech/">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0b1220?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.gibson-makau.tech/">
+    <img src="https://img.shields.io/badge/Twitter-Profile-0b1220?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.gibson-makau.tech/">
+    <img src="https://img.shields.io/badge/CodePen-Profile-0b1220?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+  <a href="https://www.gibson-makau.tech/">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-0b1220?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+  <a href="mailto:contact@gibson-makau.tech">
+    <img src="https://img.shields.io/badge/Email-contact@gibson--makau.tech-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+> Social profile links are centralized on my portfolio for easy access.
+
+## 📊 GitHub Activity
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=G-MAKAU&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Gibson Makau GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-MAKAU&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=G-MAKAU&theme=tokyonight&hide_border=true" alt="Gibson Makau GitHub streak" />
+</p>
