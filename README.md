@@ -109,27 +109,17 @@ If you'd like to support my work or collaborate:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=g-makau&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-makau&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+> Currently focusing on building and shipping production-grade systems.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=g-makau&theme=tokyonight&hide_border=true" />
-</p>
+### 🚀 What I'm working on
+- Scalable SaaS backend systems
+- LMS (Learning Management System) architecture
+- POS and business automation platforms
+- High-performance APIs and cloud deployments
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=g-makau&theme=onestar&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=g-makau&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" />
-</p>
+### 📌 Recent Focus
+- System design & backend optimization
+- API architecture improvements
+- Real-world production deployments
