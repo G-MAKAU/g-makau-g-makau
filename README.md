@@ -13,8 +13,8 @@
   <a href="https://github.com/G-MAKAU">
     <img src="https://img.shields.io/badge/GitHub-@G--MAKAU-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:contact@gibson-makau.tech">
-    <img src="https://img.shields.io/badge/Email-contact@gibson--makau.tech-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:makaugibson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-makaugibson@gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=G-MAKAU&style=for-the-badge&color=0b1220" alt="Profile views" />
 </p>
@@ -93,12 +93,20 @@
   <a href="https://www.gibson-makau.tech/">
     <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-0b1220?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </a>
-  <a href="mailto:contact@gibson-makau.tech">
-    <img src="https://img.shields.io/badge/Email-contact@gibson--makau.tech-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:makaugibson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-makaugibson@gmail.com-0b1220?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 > LinkedIn, Twitter, CodePen, and Stack Overflow links are centralized on my portfolio.
+
+## ☕ Support My Work
+
+<p align="left">
+  <a href="https://www.paypal.com/paypalme/makaugibson">
+    <img src="https://img.shields.io/badge/PayPal-Buy%20Me%20a%20Coffee-0b1220?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Buy Me a Coffee" />
+  </a>
+</p>
 
 ## 📊 GitHub Activity
 
