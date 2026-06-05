@@ -26,67 +26,65 @@
 
 ## 💼 Professional Summary
 
-- Backend engineer specializing in scalable, cloud-native systems and SaaS platforms
-- Strong focus on system design, APIs, and production-grade architecture
-- Builds reliable, secure, and high-performance backend infrastructures
-- Experienced in full-cycle development: design → build → deploy → scale
+Backend engineer specializing in scalable, cloud-native systems and SaaS platforms.
+
+- Builds production-grade APIs and distributed backend systems
+- Focus on performance, scalability, and clean architecture
+- Experience in full lifecycle development (design → build → deploy → scale)
+- Strong interest in system design and high-load applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-
+### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&perline=8" />
 </p>
 
-**Backend**
-
+### Backend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,postgres,mongodb&perline=8" />
 </p>
 
-**Cloud & DevOps**
-
+### Cloud & DevOps
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux&perline=8" />
 </p>
 
-**Tooling**
-
+### Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=8" />
 </p>
 
 ---
 
-## 📌 Selected Projects
+## 📌 Featured Projects
 
-- **BookHub API** — Scalable backend system for inventory and workflows
-- **POS System Architecture** — Reliable business operations platform for retail systems
-- **Moodle LMS Integration Layer** — Seamless education system integration and automation
+- **BookHub API** — Scalable backend for inventory and workflows
+- **POS System Architecture** — Business operations system for retail environments
+- **Moodle LMS Integration Layer** — Education system automation and integration
 - **SaaS Boilerplates (WIP)** — Multi-tenant backend architecture for fast SaaS deployment
 
-➡️ Full portfolio: **[www.gibson-makau.tech](https://www.gibson-makau.tech/)**
+👉 Full portfolio: https://www.gibson-makau.tech/
 
 ---
 
 ## 🌍 Quick Facts
 
-- Based in Kenya 🇰🇪  
+- 🇰🇪 Based in Kenya  
 - Focus: Backend engineering, SaaS systems, APIs, cloud architecture  
-- Passion: building scalable systems that solve real-world business problems  
-- Open to freelance, SaaS collaborations, and backend consulting
+- Passion: building scalable systems that solve real-world problems  
+- Open to freelance, SaaS collaboration, and consulting work  
 
 ---
 
 ## 💰 Support / Hire Me
 
-If you'd like to support my work or collaborate on a project:
+If you'd like to support my work or collaborate:
 
 <p align="center">
-  <a href="https://www.paypal.me/YOUR_USERNAME">
+  <a href="https://www.paypal.com/paypalme/YOUR_PAYPAL_USERNAME">
     <img src="https://img.shields.io/badge/PayPal-Support%20%2F%20Hire%20Me-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
   </a>
 </p>
@@ -111,7 +109,8 @@ If you'd like to support my work or collaborate on a project:
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
+
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=g-makau&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-makau&layout=compact&theme=tokyonight&hide_border=true" />
